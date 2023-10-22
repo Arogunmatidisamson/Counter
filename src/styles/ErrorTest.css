@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Err{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.Err button{
+    margin-top: 2%;
+    background-color: rgb(52, 52, 248);
+}
+
+.Err p{
+    color: red;
+}

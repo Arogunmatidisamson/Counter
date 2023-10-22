@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.error-message-wrapper{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    color: red;
+}
+
+.error-message-wrapper button{
+    margin-top: 2%;
+    background-color: rgb(69, 108, 10);
+}
